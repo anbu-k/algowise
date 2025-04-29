@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="min-h-screen p-8 font-sans">
       <main className="max-w-4xl mx-auto text-center">
-        <h1 className="text-4xl font-bold mb-6">Algorithm Tutor</h1>
+        <h1 className="text-4xl font-bold mb-6">AlgoWise</h1>
         <p className="mb-8 text-lg">
           Visualize and understand fundamental computer science algorithms
         </p>
